@@ -1,0 +1,19 @@
+{
+    "name": "vendor/autoload.php",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "safaricom/mpesa": "^1.0",
+        "africastalking/africastalking": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\AutoloadPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hillarry Masambaka Malova"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+2024-11-25 22:50:15: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef23867",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid amount"
+                }
+            
+2024-11-25 22:56:36: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef23976",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-25 23:23:23: Response: {
+                    "requestId":"9434-45b2-b858-60c64fbd855a50070",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-25 23:32:16: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f48657",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-26 07:30:45: Response: {
+                    "requestId":"9434-45b2-b858-60c64fbd855a59303",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-26 07:59:09: Response: {
+                    "requestId":"b63c-4f5b-830c-97562f598bca35337",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 08:01:12: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef33856",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 08:05:57: Response: {
+                    "requestId":"b63c-4f5b-830c-97562f598bca35515",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 08:12:34: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f58493",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 08:38:59: Response: {
+                    "requestId":"9434-45b2-b858-60c64fbd855a60572",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 09:06:26: Response: {
+                    "requestId":"9434-45b2-b858-60c64fbd855a61180",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 09:08:10: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f59591",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 09:10:17: Response: {
+                    "requestId":"b63c-4f5b-830c-97562f598bca36794",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 09:10:27: Response: {
+                    "requestId":"b63c-4f5b-830c-97562f598bca36801",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 09:10:36: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef35270",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 09:38:04: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f60113",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid QueueTimeOutURL"
+                }
+            
+2024-11-26 09:41:32: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f60191",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid QueueTimeOutURL"
+                }
+            
+2024-11-26 09:48:39: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f60307",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid QueueTimeOutURL"
+                }
+            
+2024-11-26 10:10:56: Response: {
+                    "requestId":"",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-26 10:11:10: Response: {
+            "OriginatorConversationID": "24d3-4f75-872a-6fd999327d4f60826",
+            "ConversationID": "AG_20241126_20104113d130286a4363",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+2024-11-26 10:16:03: Response: {
+                    "requestId":"",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-26 10:16:17: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef36598",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 10:18:19: Response: {
+                    "requestId":"",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+2024-11-26 10:18:46: Response: {
+                    "requestId":"24d3-4f75-872a-6fd999327d4f60952",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-11-26 10:35:03: Response: {
+            "OriginatorConversationID": "24d3-4f75-872a-6fd999327d4f61298",
+            "ConversationID": "AG_20241126_2010367c9ceb4f9afc44",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+2024-11-26 10:39:57: Response: {
+            "OriginatorConversationID": "24d3-4f75-872a-6fd999327d4f61350",
+            "ConversationID": "AG_20241126_201028d9181149456dd3",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+2024-11-26 10:49:14: Response: {
+            "OriginatorConversationID": "b63c-4f5b-830c-97562f598bca38877",
+            "ConversationID": "AG_20241126_201011ad8739decf9003",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+2024-11-26 10:56:19: Response: {
+            "OriginatorConversationID": "aba0-4119-bd0a-28c60f0ef1ef37454",
+            "ConversationID": "AG_20241126_201074dc9bb7c8bad1cd",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+2024-11-28 00:16:38: Response: 
+2024-11-28 00:16:40: Response: 
+2024-12-07 11:48:00: Response: {
+                    "requestId":"8db8-42b1-b82f-13000588c93749703",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-12-07 11:49:35: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef467979",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-12-07 11:50:44: Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef468025",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CommandID"
+                }
+            
+2024-12-07 11:57:04: Response: {
+            "OriginatorConversationID": "aba0-4119-bd0a-28c60f0ef1ef468123",
+            "ConversationID": "AG_20241207_20105747355dc5641770",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+        }
+        
